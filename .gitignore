@@ -4,3 +4,4 @@ pkg/
 tests.py
 __pycache__
 lorem.txt
+system_prompt.py
